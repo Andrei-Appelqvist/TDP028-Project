@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Flex</string>
+    <string name="wName">Workout</string>
+    <string name="facebook_app_id">555432051686731</string>
+    <string name="fb_login_protocol_scheme">fb555432051686731</string>
+    <string name="wDesc">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</string>
+    <string name="sign_in">Sign in to Flex</string>
+    <string name="Pass">Password</string>
+    <string name="Login">Login</string>
+    <string name="Register">Register</string>
+    <string name="mail">E-mail</string>
+    <string name="workouts">Workouts</string>
+    <string name="logout">Logout</string>
+    <string name="reg_n">Register a new account</string>
+</resources>
